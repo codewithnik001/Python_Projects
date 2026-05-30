@@ -8,7 +8,7 @@ The project was completed using Jupyter Notebooks in VS Code and focuses on real
 
 ### **📊 Dataset  **
 
-<a href ="phonepe_case_study/phonepe-pulse_raw-data_q12018-to-q22021-v0-1-5-1720351752.xlsx">Dataset link!</a>
+<a href ="https://github.com/codewithnik001/Python_Projects/blob/main/phonepe_case_study/phonepe-pulse_raw-data_q12018-to-q22021-v0-1-5-1720351752.xlsx">Dataset link!</a>
 
 ---
 
