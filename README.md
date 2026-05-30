@@ -155,3 +155,5 @@ phonepe_case_study/
 Aspiring Data Analyst | Business Analyst | MIS Reporting Professional
 
 Actively building projects in Python, SQL, Power BI, Tableau, and Advanced Excel.
+
+* *Connect with me on LinkedIn!* : [Click Here](https://www.linkedin.com/in/nikhil-goswami-5938431aa/)
